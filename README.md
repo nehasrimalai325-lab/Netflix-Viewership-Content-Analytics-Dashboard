@@ -16,7 +16,8 @@ Power BI Desktop · Power Query · DAX
 - Download-netflix_power_bi.pbix
 - Open it in Power BI Desktop
 - Use the slicers and navigation buttons to explore each page
-- <img width="1208" height="684" alt="image" src="https://github.com/user-attachments/assets/fa19ba76-44c6-4b84-9cd7-6c26bc92daed" />
+  
+<img width="1208" height="684" alt="image" src="https://github.com/user-attachments/assets/fa19ba76-44c6-4b84-9cd7-6c26bc92daed" />
 <img width="1212" height="683" alt="image" src="https://github.com/user-attachments/assets/1586a9b1-0fbf-49f7-b5d1-b9dead31f415" />
 
 
